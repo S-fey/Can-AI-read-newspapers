@@ -29,7 +29,7 @@ Setup:
 Usage:
     python claude_analyze_image.py newspaper.jpg
     python claude_analyze_image.py newspaper.jpg --prompt prompt.txt --template template.json --output answer.json
-### Claude (newspaper)
+### Claude (pdf)
 Setup:
     pip install anthropic
     export ANTHROPIC_API_KEY=sk-ant-...
