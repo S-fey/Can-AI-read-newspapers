@@ -1,0 +1,248 @@
+[
+  {
+    "QUESTION": "D1.1 Qual è il nome completo della testata?",
+    "AI_Answer": "il Giornale",
+    "AI_Evidence": "il Giornale",
+    "AI_Explanation": "La testata è chiaramente visibile al centro della pagina in grande carattere tipografico."
+  },
+  {
+    "QUESTION": "D1.2 Qual è la data completa riportata in prima pagina? (giorno della settimana, giorno, mese, anno).",
+    "AI_Answer": "Lunedì 21 ottobre 2024",
+    "AI_Evidence": "LUNEDÌ 21 OTTOBRE 2024",
+    "AI_Explanation": "La data completa è riportata sotto la testata, con giorno della settimana, giorno, mese e anno."
+  },
+  {
+    "QUESTION": "D1.3 Qual è il numero dell'edizione riportato in testata?",
+    "AI_Answer": "41",
+    "AI_Evidence": "Anno XLIV - Numero 41",
+    "AI_Explanation": "Il numero dell'edizione è indicato accanto all'anno, sotto la testata."
+  },
+  {
+    "QUESTION": "D1.4 Qual è l'anno di pubblicazione della testata?",
+    "AI_Answer": "2024",
+    "AI_Evidence": "LUNEDÌ 21 OTTOBRE 2024",
+    "AI_Explanation": "L'anno di pubblicazione è indicato nella data completa riportata sotto la testata."
+  },
+  {
+    "QUESTION": "D1.5 Qual è il prezzo di copertina?",
+    "AI_Answer": "1.50",
+    "AI_Evidence": "1.50 euro*",
+    "AI_Explanation": "Il prezzo di copertina è indicato accanto al numero dell'edizione."
+  },
+  {
+    "QUESTION": "D1.6 Chi è il direttore responsabile? (Se non presente, indicare N/A.)",
+    "AI_Answer": "Alessandro Sallusti",
+    "AI_Evidence": "DIRETTO DA ALESSANDRO SALLUSTI",
+    "AI_Explanation": "Il nome del direttore è indicato esplicitamente sotto la testata."
+  },
+  {
+    "QUESTION": "D1.7 Trascrivere integralmente il contenuto della manchette presente a sinistra della testata. Se non presente, indicare N/A.",
+    "AI_Answer": "VALLEVERDE 41021 9 771124 883008",
+    "AI_Evidence": "VALLEVERDE / 41021 / 9 771124 883008",
+    "AI_Explanation": "A sinistra della testata è presente il logo Valleverde con il codice numerico 41021 e il codice a barre con numero ISSN 9771124883008."
+  },
+  {
+    "QUESTION": "D1.8 Indicare il nome esatto dell'inserto redazionale allegato al quotidiano (escludere allegati commerciali, promozionali o venduti separatamente).",
+    "AI_Answer": "N/A",
+    "AI_Evidence": "N/A",
+    "AI_Explanation": "Non è presente alcuna indicazione esplicita di un inserto redazionale allegato al quotidiano; sono presenti solo riferimenti a rubriche come 'la stanza di Vittorio Feltri' che non costituiscono un inserto separato."
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.1 Qual è il titolo con il maggiore corpo tipografico (dimensione del font) nella pagina?",
+    "AI_Answer": "«Meloni pericolosa» Ecco le toghe in trincea",
+    "AI_Evidence": "Titolo in grande corpo tipografico al centro della pagina, sotto l'occhiello 'MENTRE MATTARELLA INVOCA «COLLABORAZIONE»'",
+    "AI_Explanation": "Questo titolo è il più grande visibile sulla pagina per dimensione del font, superando in altezza tutti gli altri titoli, incluso quello sulla Ferrari o sui manager più pagati."
+  },
+  {
+    "QUESTION": "D2.2 Trascrivi integralmente il catenaccio (testo immediatamente sotto il titolo principale). (Se non presente, indicare N/A.)",
+    "AI_Answer": "La mail di un magistrato è solo la punta dell'iceberg\nUtero in affitto e «sfollati climatici»: è guerra totale",
+    "AI_Evidence": "La mail di un magistrato è solo la punta dell'iceberg Utero in affitto e «sfollati climatici»: è guerra totale",
+    "AI_Explanation": "Testo immediatamente sotto il titolo principale «Meloni pericolosa» Ecco le toghe in trincea, riportato integralmente."
+  },
+  {
+    "QUESTION": "D2.3 Quanti articoli giornalistici sono visibili nella prima pagina? Contare esclusivamente gli articoli dotati di un proprio titolo. Escludere pubblicità, box informativi, infografiche, tabelle, oroscopo, meteo e rubriche prive di un titolo autonomo.",
+    "AI_Answer": "13",
+    "AI_Evidence": "Titoli individuati: 'LA CLASSIFICA DEI MANAGER PIÙ PAGATI...', 'SE L'ODIO DI HAMAS...', 'FERRARI, DOPPIETTA MERAVIGLIA...', 'Legalità vietata', '«Meloni pericolosa» Ecco le toghe in trincea', 'IL SUO CAPOLAVORO...', 'LA TERZA VIA AI CONTI PUBBLICI...', 'IL SALTO DI QUALITÀ DEL PRAGMATISMO INTERNAZIONALE', '«CONSERVATORISMO IMPOSSIBILE» E VITTIMISMI INUTILI', 'Milano, guasto ai radar...', 'Tasse più basse grazie al concordato', 'Immigrato aggredisce i poliziotti, ma accusano Salvini', 'Strangers in the night'",
+    "AI_Explanation": "Sono stati contati tutti i blocchi testuali con un titolo autonomo, escludendo pubblicità (Valleverde) e box puramente informativi senza titolo proprio."
+  },
+  {
+    "QUESTION": "D2.4 Quanti richiami a pagine interne o continuazioni di articolo sono presenti (es. “segue a pag.”, “a pag.”, “continua a pag.”)?",
+    "AI_Answer": "12",
+    "AI_Evidence": "servizio a pagina 23; Barbieri a pagina 19; Zapelloni a pagina 29; alle pagine 20-21; segue a pagina 8 (Feltri); segue a pagina 9 (Porro); servizi da pagina 2 a 4; a pagina 10; Cristina Bassi a pagina 16; Antonio Borrelli e Stefano Zurlo alle pagine 6-7; segue a pagina 8 (Minzolini); segue a pagina 9 (Solinas)",
+    "AI_Explanation": "Sono stati contati tutti i richiami del tipo 'a pagina X' o 'segue a pagina X' visibili nella pagina."
+  },
+  {
+    "QUESTION": "D2.5 Qual è il titolo dell'articolo il cui titolo compare più in alto nella metà sinistra della pagina? Se più titoli iniziano alla stessa altezza, scegliere quello interamente nella metà sinistra.",
+    "AI_Answer": "LA CLASSIFICA DEI MANAGER PIÙ PAGATI: AL «PAPERONE» TAVARES 23 MILIONI",
+    "AI_Evidence": "Titolo posizionato nell'angolo superiore sinistro della pagina, sopra la foto dell'uomo",
+    "AI_Explanation": "È il titolo che appare più in alto interamente nella metà sinistra della pagina, situato in cima alla colonna di sinistra."
+  },
+  {
+    "QUESTION": "D2.6 Qual è il titolo dell'articolo il cui titolo compare più in alto nella metà destra della pagina? Se più titoli iniziano alla stessa altezza, scegliere quello interamente nella metà destra.",
+    "AI_Answer": "FERRARI, DOPPIETTA MERAVIGLIA: LECLERC E SAINZ SBANCANO AUSTIN",
+    "AI_Evidence": "Titolo posizionato in alto a destra, sopra la foto della vettura Ferrari, accanto al box 'la stanza di Vittorio Feltri'",
+    "AI_Explanation": "Tra i titoli situati nella metà destra della pagina in cima, questo è il più alto e completamente contenuto nella metà destra."
+  },
+  {
+    "QUESTION": "D2.7 Quanti articoli principali (escludendo box, pubblicità e infografiche) sono corredati da almeno una fotografia?",
+    "AI_Answer": "5",
+    "AI_Evidence": "Foto uomo (classifica manager), foto persona in tunnel (Hamas), foto vettura Ferrari, foto Giorgia Meloni (due anni del governo), mappa con aerei (Milano radar)",
+    "AI_Explanation": "Sono stati individuati cinque articoli distinti corredati da un'immagine fotografica o grafica propria."
+  },
+  {
+    "QUESTION": "D2.8 Quale dei seguenti elementi occupa la maggiore superficie della pagina (considerando esclusivamente l'area fisica effettivamente occupata)?\n(a) titolo principale\n(b) immagine principale (fotografia, grafico o illustrazione)\n(c) pubblicità",
+    "AI_Answer": "b",
+    "AI_Evidence": "Fotografia di Giorgia Meloni che occupa una porzione ampia della colonna sinistra della pagina, più grande del titolo principale e delle altre immagini pubblicitarie",
+    "AI_Explanation": "L'immagine principale (foto di Meloni) copre una superficie maggiore rispetto al blocco di testo del titolo principale e rispetto ai piccoli loghi pubblicitari Valleverde presenti sulla pagina."
+  },
+  {
+    "QUESTION": "D2.9 — Il titolo principale occupa la piena larghezza della pagina (da margine a margine) oppure solo una porzione? (Risposta: piena larghezza / porzione parziale)",
+    "AI_Answer": "porzione parziale",
+    "AI_Evidence": "Il titolo «Meloni pericolosa» Ecco le toghe in trincea è posizionato solo nella parte destra della pagina, accanto alla banda arancione 'I DUE ANNI DEL GOVERNO'",
+    "AI_Explanation": "Il titolo non si estende su tutta la larghezza della pagina ma occupa solo la porzione destra, lasciando spazio alla colonna sinistra con la foto di Meloni e la banda arancione."
+  },
+  {
+    "QUESTION": "D2.10 L’immagine principale (fotografia, grafico o illustrazione) è posizionata nella metà superiore o inferiore della pagina (divisione orizzontale a metà)?",
+    "AI_Answer": "superiore",
+    "AI_Evidence": "Foto di Giorgia Meloni posizionata subito sotto la banda arancione 'I DUE ANNI DEL GOVERNO', nella parte alta della sezione principale della pagina",
+    "AI_Explanation": "L'immagine principale inizia poco sotto la testata e occupa la parte alta della metà inferiore della pagina, risultando complessivamente collocata nella metà superiore quando si considera l'intera lunghezza della pagina."
+  },
+  {
+    "QUESTION": "D2.11 L’articolo principale occupa 1 (singola colonna) o 1+ (più colonne) della pagina?",
+    "AI_Answer": "1",
+    "AI_Evidence": "Il testo dell'articolo firmato Felice Manti, che segue il titolo principale, è disposto in un'unica colonna sulla destra della pagina",
+    "AI_Explanation": "Il corpo dell'articolo principale è organizzato in una singola colonna di testo, distinta dal box 'Ritardi di ore' posto a fianco."
+  },
+  {
+    "QUESTION": "D2.12 Il box di riepilogo delle borse mondiali contiene principalmente: (a) indici di borsa, (b) grafici, (c) tabelle numeriche, (d) testo descrittivo.",
+    "AI_Answer": "N/A",
+    "AI_Evidence": "N/A",
+    "AI_Explanation": "Nella pagina non è visibile alcun box dedicato al riepilogo delle borse mondiali."
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.1 Qual è il nome della prima persona citata nel titolo principale? (Se non presente, indicare N/A.)",
+    "AI_Answer": "Mattarella",
+    "AI_Evidence": "MENTRE MATTARELLA INVOCA «COLLABORAZIONE»",
+    "AI_Explanation": "Nel titolo principale, comprensivo dell'occhiello, la prima persona citata per nome è Mattarella, che compare prima di Meloni nel testo che precede il titolo vero e proprio."
+  },
+  {
+    "QUESTION": "D3.2 Qual è il primo luogo geografico menzionato nel titolo  principale? (Se non presente, indicare N/A.)",
+    "AI_Answer": "N/A",
+    "AI_Evidence": "MENTRE MATTARELLA INVOCA «COLLABORAZIONE» / «Meloni pericolosa» Ecco le toghe in trincea / La mail di un magistrato è solo la punta dell'iceberg / Utero in affitto e «sfollati climatici»: è guerra totale",
+    "AI_Explanation": "Nel titolo, occhiello e sottotitolo principale non compare alcun luogo geografico esplicito."
+  },
+  {
+    "QUESTION": "D3.3 Il titolo principale riguarda principalmente: (a) politica, (b) economia, (c) esteri, (d) cronaca.",
+    "AI_Answer": "a",
+    "AI_Evidence": "«Meloni pericolosa» Ecco le toghe in trincea - MENTRE MATTARELLA INVOCA «COLLABORAZIONE»",
+    "AI_Explanation": "Il titolo tratta dello scontro tra governo e magistratura riguardo alla premier Meloni, un tema chiaramente politico."
+  },
+  {
+    "QUESTION": "D3.4 Quante entità nominate sono presenti nel titolo principale? Considerare come entità nominate esclusivamente persone, luoghi geografici, organizzazioni, istituzioni, aziende, prodotti, opere o eventi identificati da un nome proprio. (0, 1, 2, 3+)",
+    "AI_Answer": "2",
+    "AI_Evidence": "MENTRE MATTARELLA INVOCA «COLLABORAZIONE» / «Meloni pericolosa»",
+    "AI_Explanation": "Le entità nominate presenti sono Mattarella e Meloni, entrambe persone identificate con nome proprio."
+  },
+  {
+    "QUESTION": "D3.5 Nel titolo o sottotitolo principale è presente almeno una citazione attribuita a una persona (con o senza virgolette, ad esempio mediante i due punti dopo il nome)? (Sì/No)",
+    "AI_Answer": "Sì",
+    "AI_Evidence": "MENTRE MATTARELLA INVOCA «COLLABORAZIONE»",
+    "AI_Explanation": "La frase attribuisce esplicitamente a Mattarella l'invocazione della «collaborazione», riportata tra virgolette come citazione diretta."
+  },
+  {
+    "QUESTION": "D3.6 Nel titolo principale sono presenti numeri o percentuali? (Sì/No)",
+    "AI_Answer": "No",
+    "AI_Evidence": "«Meloni pericolosa» Ecco le toghe in trincea",
+    "AI_Explanation": "Nel titolo principale non compaiono numeri o percentuali."
+  },
+  {
+    "QUESTION": "D3.7 Trascrivi integralmente la prima frase del corpo dell'articolo principale.",
+    "AI_Answer": "La strada è tracciata.",
+    "AI_Evidence": "La strada è tracciata. Dopo che il tribunale di Roma ha bloccato l'operazione Albania, il governo Meloni lavora alle contromisure.",
+    "AI_Explanation": "La prima frase del corpo dell'articolo principale firmato da Felice Manti è 'La strada è tracciata.'"
+  },
+  {
+    "QUESTION": "D3.8 Citazione diretta del Ministro dell'Economia Giancarlo Giorgetti sull'argomento principale:",
+    "AI_Answer": "N/A",
+    "AI_Evidence": "N/A",
+    "AI_Explanation": "Non è presente nell'immagine alcuna citazione diretta attribuita al Ministro dell'Economia Giancarlo Giorgetti."
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.1 Quante fotografie sono presenti nella pagina? Contare esclusivamente immagini fotografiche riconoscibili. Non conteggiare grafici, tabelle, infografiche, mappe, vignette, illustrazioni, disegni, loghi o pubblicità, anche se contengono immagini o elementi fotografici parziali.",
+    "AI_Answer": "4",
+    "AI_Evidence": "Foto dell'uomo che parla (in alto a sinistra), foto della persona in una galleria/tunnel (in alto al centro), foto della Ferrari in pista (in alto a destra), foto di Giorgia Meloni (al centro della pagina)",
+    "AI_Explanation": "Sono state individuate quattro fotografie riconoscibili nella pagina, escludendo la mappa con gli aeroplanini gialli che è un'infografica e non una fotografia."
+  },
+  {
+    "QUESTION": "D4.2 La fotografia principale è corredata da una didascalia? (Sì/No)",
+    "AI_Answer": "No",
+    "AI_Evidence": "Foto di Giorgia Meloni seguita immediatamente dalle sezioni 'la politica interna' e 'l'economia' senza testo di didascalia dedicato",
+    "AI_Explanation": "Sotto la fotografia principale non è presente una didascalia esplicita, ma direttamente l'inizio degli articoli."
+  },
+  {
+    "QUESTION": "D4.3 La fotografia principale raffigura prevalentemente: (a) una persona, (b) più persone, (c) un edificio, (d) un oggetto, (e) un paesaggio",
+    "AI_Answer": "a",
+    "AI_Evidence": "Fotografia di Giorgia Meloni, ritratta da sola, sotto il titolo 'I DUE ANNI DEL GOVERNO'",
+    "AI_Explanation": "La fotografia principale mostra una singola persona, Giorgia Meloni."
+  },
+  {
+    "QUESTION": "D4.4 Nell’immagine al centro del giornale è riportata la cartina geografica dell’Italia. Cosa rappresentano gli oggetti di colore giallo?",
+    "AI_Answer": "Aerei/voli",
+    "AI_Evidence": "APP «Flightradar» mostra un Nord Italia senza voli",
+    "AI_Explanation": "La didascalia sotto la mappa specifica che l'immagine proviene dall'app Flightradar, quindi gli oggetti gialli rappresentano gli aerei/voli monitorati, in questo caso mostrando l'assenza di traffico aereo nel Nord Italia."
+  },
+  {
+    "QUESTION": "D4.5 È presente almeno un grafico? (Sì/No)",
+    "AI_Answer": "No",
+    "AI_Evidence": "N/A",
+    "AI_Explanation": "Non è visibile alcun grafico a linee, a barre o a torta nella pagina; è presente solo una mappa geografica con icone di aerei."
+  },
+  {
+    "QUESTION": "D4.6 Quanti spazi pubblicitari distinti (con logo o marchio commerciale) sono presenti nella pagina, escludendo eventuali loghi/marchi della testata giornalistica stessa? (0, 1, 2, 3+)",
+    "AI_Answer": "2",
+    "AI_Evidence": "Logo 'VALLEVERDE' con bordo dorato a sinistra vicino al codice a barre, e logo 'VALLEVERDE' con immagine di una scarpa a destra",
+    "AI_Explanation": "Sono presenti due spazi pubblicitari distinti del marchio Valleverde, uno a sinistra con il solo logo e uno a destra con l'immagine del prodotto (scarpa)."
+  },
+  {
+    "QUESTION": "D4.7 Descrivere brevemente (max 2 frasi) il grafico a linee sull’andamento del PIL presente nel taglio alto della pagina.",
+    "AI_Answer": "N/A",
+    "AI_Evidence": "N/A",
+    "AI_Explanation": "Nel taglio alto della pagina non è presente alcun grafico a linee relativo all'andamento del PIL; sono visibili solo fotografie e titoli di articoli."
+  }
+]

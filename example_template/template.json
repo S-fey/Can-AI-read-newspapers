@@ -1,0 +1,248 @@
+[
+  {
+    "QUESTION": "D1.1 Qual è il nome completo della testata?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D1.2 Qual è la data completa riportata in prima pagina? (giorno della settimana, giorno, mese, anno).",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D1.3 Qual è il numero dell'edizione riportato in testata?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D1.4 Qual è l'anno di pubblicazione della testata?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D1.5 Qual è il prezzo di copertina?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D1.6 Chi è il direttore responsabile? (Se non presente, indicare N/A.)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D1.7 Trascrivere integralmente il contenuto della manchette presente a sinistra della testata. Se non presente, indicare N/A.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D1.8 Indicare il nome esatto dell'inserto redazionale allegato al quotidiano (escludere allegati commerciali, promozionali o venduti separatamente).",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.1 Qual è il titolo con il maggiore corpo tipografico (dimensione del font) nella pagina?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.2 Trascrivi integralmente il catenaccio (testo immediatamente sotto il titolo principale). (Se non presente, indicare N/A.)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.3 Quanti articoli giornalistici sono visibili nella prima pagina? Contare esclusivamente gli articoli dotati di un proprio titolo. Escludere pubblicità, box informativi, infografiche, tabelle, oroscopo, meteo e rubriche prive di un titolo autonomo.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.4 Quanti richiami a pagine interne o continuazioni di articolo sono presenti (es. “segue a pag.”, “a pag.”, “continua a pag.”)?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.5 Qual è il titolo dell'articolo il cui titolo compare più in alto nella metà sinistra della pagina? Se più titoli iniziano alla stessa altezza, scegliere quello interamente nella metà sinistra.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.6 Qual è il titolo dell'articolo il cui titolo compare più in alto nella metà destra della pagina? Se più titoli iniziano alla stessa altezza, scegliere quello interamente nella metà destra.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.7 Quanti articoli principali (escludendo box, pubblicità e infografiche) sono corredati da almeno una fotografia?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.8 Quale dei seguenti elementi occupa la maggiore superficie della pagina (considerando esclusivamente l'area fisica effettivamente occupata)?\n(a) titolo principale\n(b) immagine principale (fotografia, grafico o illustrazione)\n(c) pubblicità",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.9 — Il titolo principale occupa la piena larghezza della pagina (da margine a margine) oppure solo una porzione? (Risposta: piena larghezza / porzione parziale)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.10 L’immagine principale (fotografia, grafico o illustrazione) è posizionata nella metà superiore o inferiore della pagina (divisione orizzontale a metà)?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.11 L’articolo principale occupa 1 (singola colonna) o 1+ (più colonne) della pagina?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D2.12 Il box di riepilogo delle borse mondiali contiene principalmente: (a) indici di borsa, (b) grafici, (c) tabelle numeriche, (d) testo descrittivo.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.1 Qual è il nome della prima persona citata nel titolo principale? (Se non presente, indicare N/A.)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.2 Qual è il primo luogo geografico menzionato nel titolo  principale? (Se non presente, indicare N/A.)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.3 Il titolo principale riguarda principalmente: (a) politica, (b) economia, (c) esteri, (d) cronaca.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.4 Quante entità nominate sono presenti nel titolo principale? Considerare come entità nominate esclusivamente persone, luoghi geografici, organizzazioni, istituzioni, aziende, prodotti, opere o eventi identificati da un nome proprio. (0, 1, 2, 3+)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.5 Nel titolo o sottotitolo principale è presente almeno una citazione attribuita a una persona (con o senza virgolette, ad esempio mediante i due punti dopo il nome)? (Sì/No)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.6 Nel titolo principale sono presenti numeri o percentuali? (Sì/No)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.7 Trascrivi integralmente la prima frase del corpo dell'articolo principale.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D3.8 Citazione diretta del Ministro dell'Economia Giancarlo Giorgetti sull'argomento principale:",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.1 Quante fotografie sono presenti nella pagina? Contare esclusivamente immagini fotografiche riconoscibili. Non conteggiare grafici, tabelle, infografiche, mappe, vignette, illustrazioni, disegni, loghi o pubblicità, anche se contengono immagini o elementi fotografici parziali.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.2 La fotografia principale è corredata da una didascalia? (Sì/No)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.3 La fotografia principale raffigura prevalentemente: (a) una persona, (b) più persone, (c) un edificio, (d) un oggetto, (e) un paesaggio",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.4 Nell’immagine al centro del giornale è riportata la cartina geografica dell’Italia. Cosa rappresentano gli oggetti di colore giallo?",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.5 È presente almeno un grafico? (Sì/No)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.6 Quanti spazi pubblicitari distinti (con logo o marchio commerciale) sono presenti nella pagina, escludendo eventuali loghi/marchi della testata giornalistica stessa? (0, 1, 2, 3+)",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  },
+  {
+    "QUESTION": "D4.7 Descrivere brevemente (max 2 frasi) il grafico a linee sull’andamento del PIL presente nel taglio alto della pagina.",
+    "AI_Answer": "",
+    "AI_Evidence": "",
+    "AI_Explanation": ""
+  }
+]
