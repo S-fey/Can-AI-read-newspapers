@@ -1,10 +1,14 @@
 # In this folder you will find the scripts used in this project.
+
 ## Overview
 Each script grabs a prompt, a json template (look in the example_template folder to see how that looks like) and an image or pdf as an input.
 It outputs a json file in the same format as the template.json but with the questions answered.
 * gpt_analyze_image.py, claude_analyze_image.py and gemini_analyze_image.py -> Answer questions by reading an image
-*  gpt_analyze_pdf.py and claude_analyze_pdf.py-> Answer questions by reading a pdf document instead of an image, only claude and GPT were used and only applied to 1 newspaper because this project was more focused on reading images.
+* gpt_analyze_pdf.py and claude_analyze_pdf.py -> Answer questions by reading a pdf document instead of an image, only claude and GPT were used and only applied to 1 newspaper because this project was more focused on reading images.
+* evaluate.py -> Evaluates the generated outputs (answers and supporting evidence) from the GPT, Claude, and Gemini models against the ground-truth annotations ("ferrari"). It computes lexical (ROUGE-1, ROUGE-2, ROUGE-L) and semantic (BERTScore) similarity metrics, writing summary scores directly back into the source Excel workbook and saving a highly detailed metric registry to a JSON metadata file.
+
 ## Usage
+
 ### GPT (image)
 Setup:
     pip install openai
@@ -13,6 +17,7 @@ Setup:
 Usage:
     python gpt_analyze_image.py newspaper.jpg
     python gpt_analyze_image.py newspaper.jpg --prompt prompt.txt --template template.json --output answer.json
+
 ### GPT (pdf)
 Setup:
     pip install openai
@@ -21,6 +26,7 @@ Setup:
 Usage:
     python gpt_analyze_pdf.py newspaper.pdf
     python gpt_analyze_pdf.py newspaper.pdf --prompt prompt.txt --template template.json --output answer.json
+
 ### Claude (image) 
 Setup:
     pip install anthropic
@@ -29,6 +35,7 @@ Setup:
 Usage:
     python claude_analyze_image.py newspaper.jpg
     python claude_analyze_image.py newspaper.jpg --prompt prompt.txt --template template.json --output answer.json
+
 ### Claude (pdf)
 Setup:
     pip install anthropic
@@ -37,3 +44,11 @@ Setup:
 Usage:
     python claude_analyze_pdf.py newspaper.pdf
     python claude_analyze_pdf.py newspaper.pdf --prompt prompt.txt --template template.json --output answer.json
+
+### Evaluation
+Setup:
+    pip install numpy pandas torch openpyxl rouge-score bert-score
+
+Usage:
+    # Run evaluation using default filenames (looks for "All_Newspapers_answers_evidence.xlsx" in the directory)
+    python evaluate.py
